@@ -1,0 +1,12 @@
+{
+"servers": [
+{ "name": "洛杉矶CC", "type": "KVM", "host": "none", "location": "Alpharacks主机", "online4": true, "online6": true, "uptime": "06:37:30", "load": 0.00, "network_rx": 2416, "network_tx": 3805, "network_in": 420973615, "network_out": 81346255, "cpu": 1, "memory_total": 1048576, "memory_used": 152664, "swap_total": 524288, "swap_used": 266428, "hdd_total": 20480, "hdd_used": 3360, "custom": "" },
+{ "name": "洛杉矶QN", "type": "KVM", "host": "none", "location": "Woothosting主机", "online4": true, "online6": false, "uptime": "02:46:33", "load": 0.00, "network_rx": 149, "network_tx": 364, "network_in": 1254021, "network_out": 1993286, "cpu": 0, "memory_total": 1048576, "memory_used": 224300, "swap_total": 2097152, "swap_used": 149780, "hdd_total": 40960, "hdd_used": 3321, "custom": "" },
+{ "name": "日本GAI KT", "type": "KVM", "host": "none", "location": "樱花主机", "online4": true, "online6": false, "uptime": "4 天", "load": 0.00, "network_rx": 79, "network_tx": 299, "network_in": 5267680964, "network_out": 5216060012, "cpu": 0, "memory_total": 98304, "memory_used": 33652, "swap_total": 0, "swap_used": 0, "hdd_total": 5120, "hdd_used": 1433, "custom": "" },
+{ "name": "香港CN2三网直连", "type": "KVM", "host": "none", "location": "Layerstack主机", "online4": true, "online6": false, "uptime": "4 天", "load": 1.00, "network_rx": 83, "network_tx": 308, "network_in": 14616764752, "network_out": 14325298011, "cpu": 5, "memory_total": 98304, "memory_used": 23384, "swap_total": 98304, "swap_used": 37800, "hdd_total": 5120, "hdd_used": 1146, "custom": "" },
+{ "name": "香港CN2 PCCW", "type": "KVM", "host": "none", "location": "DGChost主机", "online4": false, "online6": false },
+{ "name": "洛杉矶CN2 GIA", "type": "KVM", "host": "none", "location": "Hostdare主机", "online4": true, "online6": false, "uptime": "3 天", "load": 29.00, "network_rx": 2085588, "network_tx": 1550415, "network_in": 218950741179, "network_out": 201679593952, "cpu": 4, "memory_total": 4042128, "memory_used": 347896, "swap_total": 0, "swap_used": 0, "hdd_total": 49360, "hdd_used": 1820, "custom": "" },
+{ "name": "日本", "type": "KVM", "host": "none", "location": "Vultr主机", "online4": true, "online6": false, "uptime": "1 天", "load": 21.00, "network_rx": 500350, "network_tx": 489386, "network_in": 19432607059, "network_out": 18328988147, "cpu": 0, "memory_total": 4042128, "memory_used": 248436, "swap_total": 0, "swap_used": 0, "hdd_total": 49360, "hdd_used": 1912, "custom": "" }
+],
+"updated": "1514469148"
+}
