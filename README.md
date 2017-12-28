@@ -19,7 +19,7 @@
    
 【克隆代码】:
 ```
-git clone https://github.com/tenyue/ServerStatus.git
+git clone https://github.com/Sooele/ServerStatus-Sooele.git
 ```
 
 【服务端配置】（服务端程序在ServerStatus/web下）:  
@@ -36,17 +36,18 @@ make
 修改config.json文件，注意username, password的值需要和客户端对应一致                 
 ```
 {"servers":
-	[
-		{
-			"username": "s01",
-			"name": "Mainserver 1",
-			"type": "Dedicated Server",
-			"host": "GenericServerHost123",
-			"location": "Austria",
-			"password": "some-hard-to-guess-copy-paste-password"
-		},
-	]
-}       
+ [
+  {
+   "username": "username01",
+   "password": "password",
+   "name": "Server 01",
+   "type": "KVM",
+   "host": "MineCloud",
+   "location": "RU KHB",
+   "disabled": false
+  }
+ ]
+}     
 ```
 
 三、拷贝ServerStatus/status到你的网站目录        
